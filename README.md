@@ -3,7 +3,9 @@ A classic Hangman game implemented in Python. Players guess letters to reveal a 
 
 # Features
 •	Random word selection from a predefined list
+
 •	Hangman figure representation for each incorrect guess
+
 •	Input validation to ensure correct letter guesses
 
 # How to Play
